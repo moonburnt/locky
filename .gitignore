@@ -1,0 +1,6 @@
+__pycache__
+.venv
+locky.egg-info
+dist/
+build/
+tests/
